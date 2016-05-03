@@ -1,6 +1,6 @@
 {
-  "name": "Rum3 & Rumbog",
+  "name": "$./rum3 | rumbog >> system.log",
   "tagline": "",
-  "body": "Rum3 & Rumbog",
+  "body": "$./rum3 | rumbog >> system.log",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
